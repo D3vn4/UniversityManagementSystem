@@ -22,7 +22,13 @@ The University Management System is a comprehensive solution designed to streaml
 - **Database Management**
   - Utilized MySQL for robust and efficient database operations.
 
+## Screenshots
 
+### Home Page
+![Home Page](home.png)
+
+### Login Page
+![Login Page](login.png)
 
 ## Usage
   - Use the provided admin credentials to log in to the system.
